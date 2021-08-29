@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    text-decoration: none;
+}
+.medico{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+}
+.medico button{
+    margin-left: 10px;
+}
+.medico img{
+    height: 50px;
+    background-color: black;
+}
